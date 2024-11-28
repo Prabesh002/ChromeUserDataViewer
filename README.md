@@ -51,7 +51,6 @@ make
 ## ⚠️ Limitations
 
 - Password decryption might not work for all Chrome versions
-- Requires direct access to Chrome's Login Data file
 - No password decryption for some encrypted entries
 
 ## 🧑‍💻 How It Works
